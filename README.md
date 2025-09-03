@@ -412,10 +412,7 @@ Ce projet est développé dans le cadre du test technique @Fric Payment Solution
 ## 👨‍💻 Développeur
 
 **Votre Nom**  
-📧 <votre.email@example.com>  
+📧 [email] (<bonitofotso55@gmail.com>)  
 🔗 [GitHub](https://github.com/bonitoFotso)  
-💼 [LinkedIn](https://linkedin.com/in/votre-profil)
 
 ---
-
-*Développé avec ❤️ pour @Fric Payment Solutions*
